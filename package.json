@@ -1,0 +1,16 @@
+{
+  "name": "fbisystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Rodrigo A. Flores",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.19.2",
+    "jsonwebtoken": "9.0.2"
+  }
+}
